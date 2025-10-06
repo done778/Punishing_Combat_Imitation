@@ -60,7 +60,7 @@
 
 이를 위해 마인드맵을 작성했습니다.
 
-<img width="912" height="942" alt="Image" src="https://github.com/user-attachments/assets/f323f92e-1a8e-4ceb-86b6-13e21773a8c9" />
+<img width="912" height="942" alt="Image" src="https://github.com/user-attachments/assets/6962c036-b59d-4afb-9056-136a49d0ad26" />
 
 위 마인드맵은 전투 로직에 집중한 내용이고 이 외에 필수적으로 구현해야 할 것은
 
